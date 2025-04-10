@@ -1,8 +1,6 @@
 # .NET Developer Roadmap
 
-A roadmap knowledge need to know to become an .NET Developer
-
-![DotNet Developer Roadmap.png](/images/dotnet-developer-roadmap.png)
+![DotNet Developer Roadmap.png](dotnet-developer-roadmap/images/dotnet-developer-roadmap.png)
 
 [Basic Syntax & Structure](https://www.notion.so/Basic-Syntax-Structure-1c804da9a1c98028b6c9e70497b73ff5?pvs=21)
 
