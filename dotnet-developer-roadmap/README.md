@@ -2,7 +2,7 @@
 
 ![DotNet Developer Roadmap.png](images/dotnet-developer-roadmap.png)
 
-[Basic Syntax & Structure](https://www.notion.so/Basic-Syntax-Structure-1c804da9a1c98028b6c9e70497b73ff5?pvs=21)
+[Basic Syntax & Structure](basic-syntax-and-structure/README.md)
 
 [Object-Oriented Programming (OOP)](https://www.notion.so/Object-Oriented-Programming-OOP-1c804da9a1c980579a6ae7c578e99672?pvs=21)
 
