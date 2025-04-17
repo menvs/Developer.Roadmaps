@@ -16,9 +16,9 @@ A complete learning path to become a professional .NET Developer – from the fu
 
 ## 📍 Phase 1: C# & .NET Fundamentals
 
-[C# Basics](NET%20Developer%20Roadmap/C#%20Basics.md)
+[C# Basics](NET%20Developer%20Roadmap/C%23%20Basics.md)
 
-[OOP in C#](NET%20Developer%20Roadmap/OOP%20in%20C#%201c804da9a1c980579a6ae7c578e99672.md)
+[OOP in C#](NET%20Developer%20Roadmap/OOP%20in%20C%23%201c804da9a1c980579a6ae7c578e99672.md)
 
 [Collections & Generics](NET%20Developer%20Roadmap/Collections%20&%20Generics.md)
 
