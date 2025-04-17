@@ -1,4 +1,4 @@
-# Loops
+# 4. Loops
 
 Loops are used to **execute a block of code repeatedly** based on a condition or collection.
 

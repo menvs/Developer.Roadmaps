@@ -1,6 +1,6 @@
-# Variables, Data Types, Constant
+# 1. Variables, Data Types, Constant
 
-# 1. Variables
+## 1. Variables
 
 A **variable** is a named memory location that holds a value, which can be changed during program execution. In C#, variables must be declared with a specific **data type**.
 
@@ -20,7 +20,7 @@ double price = 99.99;  // Floating-point number
 - Case-sensitive (`Name` and `name` are different variables).
 - Can contain letters, numbers, and underscores (e.g., `user_age`, `price99`).
 
-# 2. Data types:
+## 2. Data types:
 
 ## a. Value Type:
 
@@ -87,7 +87,7 @@ var message = "Hello, C#";  // Compiler infers it as string
 var age = 25;  // Compiler infers it as int
 ```
 
-**Comparision: `var` vs `dynamic` in C#**
+### **Comparision: `var` vs `dynamic` in C#**
 
 | **Aspect** | **var** | **dynamic** |
 | --- | --- | --- |
@@ -100,7 +100,7 @@ var age = 25;  // Compiler infers it as int
 | **Usage with Reflection & COM Objects** | Not suitable (must specify type explicitly). | Ideal for working with **reflection, COM objects, and dynamic JSON/XML parsing**. |
 | **When to Use?** | Use when the type is **known** but you want to avoid redundancy. | Use when working with **unknown types** or **dynamic data structures**. |
 
-# 3. Constant
+## 3. Constant
 
 A constant is a variable whose value cannot be changed after it is initialized
 
@@ -111,7 +111,7 @@ const double Pi = 3.14159;
 const int MaxValue = 100;
 ```
 
-**readonly Fields** (Alternative to Constant)
+### **readonly Fields** (Alternative to Constant)
 
 `readonly` variables can be assigned only in constuctor
 

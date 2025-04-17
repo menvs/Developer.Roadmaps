@@ -1,56 +1,33 @@
-# 🗺️ Developer Roadmaps
+# .NET Developer Roadmap
 
-A collection of curated and visualized roadmaps to help you become a modern and in-demand developer. Whether you're starting your journey as a .NET Developer, mastering Data Structures & Algorithms, diving into Frontend, or stepping into DevOps — this repository is for you.
+A complete learning path to become a professional .NET Developer – from the fundamentals of C# to building enterprise-level microservices.
 
-> 💡 Built by developers, for developers.  
-> 🎯 Learning paths with practical resources and project ideas.
-
----
-
-## 📌 Roadmaps Available
-
-### 🧑‍💻 .NET Developer Roadmap
-- From beginner to senior .NET developer
-- Learn C#, ASP.NET Core, Entity Framework and more
-- Clean Architecture, DDD practices
-- 📂 [`dotnet-developer-roadmap`](./dotnet-developer-roadmap/README.md)
+> 📌 Suitable for: Beginners to Intermediate Developers
+> 
+> 
+> 🛠️ Focus Areas: C#, [ASP.NET](http://asp.net/) Core, EF Core, Microservices, Docker, Kubernetes
+> 
 
 ---
 
-### 🧠 DSA Roadmap (Data Structures & Algorithms)
-- Master the core CS fundamentals for coding interviews
-- Arrays, Linked Lists, Trees, Graphs, DP, and more
-- Language-agnostic with visual aids and problems
-
+![dotnet-developer-roadmap.png](NET%20Developer%20Roadmap/dotnet-developer-roadmap.png)
 
 ---
 
-### 🎨 Frontend Developer Roadmap
-- HTML, CSS, JavaScript
-- Frameworks: React, Angular, Vue
+## 📍 Phase 1: C# & .NET Fundamentals
+
+[C# Basics](NET%20Developer%20Roadmap/C#%20Basics.md)
+
+[OOP in C#](NET%20Developer%20Roadmap/OOP%20in%20C#%201c804da9a1c980579a6ae7c578e99672.md)
+
+[Collections & Generics](NET%20Developer%20Roadmap/Collections%20&%20Generics.md)
+
+[Exception Handling](NET%20Developer%20Roadmap/Exception%20Handling.md)
+
+[Delegates & Events](NET%20Developer%20Roadmap/Delegates%20&%20Events.md)
+
+[.NET CLI Basics](NET%20Developer%20Roadmap/NET%20CLI%20Basics.md)
 
 ---
 
-### ⚙️ DevOps Roadmap
-- Understand CI/CD, Containers, Monitoring, Infrastructure as Code
-- Tools: Docker, Kubernetes, GitHub Actions, Terraform, Prometheus
-- Deployment strategies and real-world use cases
-
----
-
-## 📈 Contribution
-
-This is an open-source project. You can:
-- Submit suggestions & corrections
-- Add new learning materials
-- Create pull requests to extend any roadmap
-
----
-
-## 🌍 License
-
-MIT License. Feel free to fork and customize.
-
----
-
-> 🚀 Let’s learn together and grow as developers. Star this repo if you find it useful!
+## 🧰 Phase 2: Web Development with [ASP.NET](http://asp.net/) Core

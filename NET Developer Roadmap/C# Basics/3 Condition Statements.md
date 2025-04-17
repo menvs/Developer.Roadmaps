@@ -1,4 +1,4 @@
-# Condition Statements
+# 3. Condition Statements
 
 Conditional statements control **flow of execution** based on conditions (boolean expressions).
 
@@ -13,6 +13,8 @@ Conditional statements control **flow of execution** based on conditions (boolea
 | `else if` | Test multiple conditions | `if (x > 10) { ... } else if (...)` | Chain multiple checks |
 | `switch` | Multi-way branching | `switch (value) { case 1: ... }` | Clean alternative to many `else if` |
 | Ternary (`?:`) | Short-hand for `if-else` | `var result = x > 10 ? "A" : "B";` | Assign based on condition |
+
+---
 
 ## 1. `if` Statement
 

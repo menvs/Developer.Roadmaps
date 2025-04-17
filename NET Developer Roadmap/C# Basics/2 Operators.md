@@ -1,4 +1,4 @@
-# Operators
+# 2. Operators
 
 ## 🧮 Arithmetic Operators
 
@@ -130,5 +130,3 @@
 | `=>` | Lambda expression | `x => x * x` |
 
 ⚡ Often used in LINQ and event handlers.
-
----
