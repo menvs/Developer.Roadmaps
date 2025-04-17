@@ -14,4 +14,4 @@ The .NET CLI is a cross-platform toolchain for developing, building, running, an
 
 ---
 
-![.NET CLI Commands.png](NET%20CLI%20Basics%201d204da9a1c980b0a75ace3f068b1b39/.NET_CLI_Commands.png)
+![.NET CLI Commands.png](NET%20CLI%20Basics/.NET_CLI_Commands.png)

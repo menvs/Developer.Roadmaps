@@ -178,7 +178,7 @@ Collections and Generics are essential tools in C# development. Collections prov
 
 ## Mindmaps
 
-![Collections & Generics in C#.png](Collections%20&%20Generics%201c804da9a1c9801b8348ca221dbe584f/Collections__Generics_in_C.png)
+![Collections & Generics in C#.png](Collections%20&%20Generics/Collections__Generics_in_C.png)
 
 ---
 
