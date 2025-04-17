@@ -10,7 +10,7 @@ A complete learning path to become a professional .NET Developer – from the fu
 
 ---
 
-![dotnet-developer-roadmap.png](NET%20Developer%20Roadmap/dotnet-developer-roadmap.png)
+![dotnet-developer-roadmap.png](NET%20Developer%20Roadmap/Phase1/dotnet-developer-roadmap.png)
 
 ---
 
