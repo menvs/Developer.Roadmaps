@@ -15,19 +15,19 @@
 | 🎭 **Polymorphism** | Same action behaves differently depending on the object | Use `virtual`, `override`, `abstract`, `interface` | Useful for designing flexible, extensible systems |
 | 🔍 **Abstraction** | Focusing on **what** something does, not **how** it does it | Use `abstract class` and `interface` | Clear contracts – separates interface from implementation |
 
-[1. Encapsulation](OOP%20in%20C#%201c804da9a1c980579a6ae7c578e99672/1%20Encapsulation%201d304da9a1c980b5af28f959b4716e3c.md)
+[1. Encapsulation](OOP%20in%20C%23%201c804da9a1c980579a6ae7c578e99672/1%20Encapsulation.md)
 
-[**2. Inheritance**](OOP%20in%20C#%201c804da9a1c980579a6ae7c578e99672/2%20Inheritance%201d304da9a1c9808bbb83f412aad72b8c.md)
+[**2. Inheritance**](OOP%20in%20C%23/2%20Inheritance.md)
 
-[3. Polymorphism](OOP%20in%20C#%201c804da9a1c980579a6ae7c578e99672/3%20Polymorphism%201d304da9a1c9804d996ce733b264dc1b.md)
+[3. Polymorphism](OOP%20in%20C%23/3%20Polymorphism.md)
 
-[4. Abstraction](OOP%20in%20C#%201c804da9a1c980579a6ae7c578e99672/4%20Abstraction%201d304da9a1c980f890d3f14a53fbb7a1.md)
+[4. Abstraction](OOP%20in%20C%23/4%20Abstraction.md)
 
 ---
 
 ## Mindmap
 
-![Object-Oriented Programming in C#.png](OOP%20in%20C#%201c804da9a1c980579a6ae7c578e99672/Object-Oriented_Programming_in_C.png)
+![Object-Oriented Programming in C#.png](OOP%20in%20C%23/Object-Oriented_Programming_in_C.png)
 
 ---
 
