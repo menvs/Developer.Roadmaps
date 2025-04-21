@@ -53,4 +53,4 @@ Build a command-line application that allows users to manage a list of students 
 
 ---
 
-Ready? Move on to [Phase 2: Data Access with Entity Framework](phase-2-webapi.md) when you're confident with the fundamentals.
+Ready? Move on to [Phase 2: Data Access with Entity Framework](../phase-2/phase2.md) when you're confident with the fundamentals.
