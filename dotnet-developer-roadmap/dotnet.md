@@ -18,7 +18,7 @@ A complete learning path to become a professional .NET Developer – from the fu
 ## 📂 Contents
 
 - 📍 Phase 1: [C# & .NET Fundamentals](resources/phase-1/phase1.md)
-- 🧱 Phase 2: [Data Access with Entity Framework](resources/phase-1/phase1.md)
+- 🧱 Phase 2: [Data Access with Entity Framework](resources/phase-2/phase2.md)
 - 🧰 Phase 3: Web Development with ASP.NET Core
 - 🧠 Phase 4: Advanced C# Topics
 - 🛡️ Phase 5: Authentication & Authorization
