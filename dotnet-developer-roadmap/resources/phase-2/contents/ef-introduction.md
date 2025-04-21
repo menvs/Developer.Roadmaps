@@ -96,7 +96,7 @@ using (var context = new BloggingContext())
 
 **Best Practice:** Use migrations to version-control your database schema and ensure consistent database updates across different environments.
 
-![EF Core Migrations - Command Reference.png](../../../assets\roadmaps\ef-core-migration-command-references.png)
+![EF Core Migrations - Command Reference.png](../../../assets/roadmaps/ef-core-migration-command-references.png)
 
 ### LINQ to Entities
 
