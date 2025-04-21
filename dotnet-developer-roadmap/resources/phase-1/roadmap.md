@@ -26,7 +26,6 @@ Build a command-line application that allows users to manage a list of students 
 - Display all students
 - Search students by name or ID
 - Sort students by GPA or name
-- (Optional) Save/load student data to/from a file
 
 
 ### 📚 Concepts Applied
