@@ -8,12 +8,12 @@ Build a strong foundation in C# programming and the .NET ecosystem. This phase c
 
  Topic | Description 
 -------|-------------
- [C# Basics](csharp-basics.md) | Variables, data types, conditionals, loops 
- [OOP in C#](oop-in-csharp.md) | Classes, interfaces, inheritance, polymorphism 
- [Exception Handling](exception-handling.md) | try-catch-finally, custom exceptions 
- [Delegates & Events](delegates-and-events.md) | Delegates, multicast, event handling
- [Collections & Generics](collection-and-generics.md) | List, Dictionary, generic types
- [.NET CLI Basics](dotnet-cli-basics.md) | Build, run, publish .NET apps using CLI 
+ [C# Basics](contents/csharp-basics.md) | Variables, data types, conditionals, loops 
+ [OOP in C#](contents/oop-in-csharp.md) | Classes, interfaces, inheritance, polymorphism 
+ [Exception Handling](contents/exception-handling.md) | try-catch-finally, custom exceptions 
+ [Delegates & Events](contents/delegates-and-events.md) | Delegates, multicast, event handling
+ [Collections & Generics](contents/collection-and-generics.md) | List, Dictionary, generic types
+ [.NET CLI Basics](contents/dotnet-cli-basics.md) | Build, run, publish .NET apps using CLI 
 ---
 
 ## 🧮 Mini Project: Console-Based Student Management System

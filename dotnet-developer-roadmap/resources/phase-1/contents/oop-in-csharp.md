@@ -19,7 +19,7 @@ Principle | Simple Explanation | Implementation in C# | Notes for Developers |
 
 ## Mindmap: 4 Priciples of OOP
 
-![Object-Oriented Programming in C#.png](../../assets/roadmaps/4-principles-in-oop.png)
+![Object-Oriented Programming in C#.png](../../../assets/roadmaps/4-principles-in-oop.png)
 
 ---
 

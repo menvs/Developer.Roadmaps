@@ -4,6 +4,6 @@ A suggested roadmap for becoming a proficient developer, with a focus on .NET, D
 
 ## Table of Contents
 
-1.  [ .NET Development ](dotnet-developer-roadmap/roadmap.md)
+1.  [ .NET Development ](dotnet-developer-roadmap/dotnet.md)
 2.  [ Data Structures and Algorithms (DSA) ]
 3.  [ DevOps ]
