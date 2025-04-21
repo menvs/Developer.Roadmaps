@@ -15,19 +15,19 @@
 | 🎭 **Polymorphism** | Same action behaves differently depending on the object | Use `virtual`, `override`, `abstract`, `interface` | Useful for designing flexible, extensible systems |
 | 🔍 **Abstraction** | Focusing on **what** something does, not **how** it does it | Use `abstract class` and `interface` | Clear contracts – separates interface from implementation |
 
-[1. Encapsulation](OOP%20in%20C%23%201c804da9a1c980579a6ae7c578e99672/1%20Encapsulation.md)
+[1. Encapsulation](oop-in-csharp\abstraction.md)
 
-[**2. Inheritance**](OOP%20in%20C%23/2%20Inheritance.md)
+[2. Inheritance](oop-in-csharp\inheritance.md)
 
-[3. Polymorphism](OOP%20in%20C%23/3%20Polymorphism.md)
+[3. Polymorphism](oop-in-csharp\polymorphism.md)
 
-[4. Abstraction](OOP%20in%20C%23/4%20Abstraction.md)
+[4. Abstraction](oop-in-csharp\abstraction.md)
 
 ---
 
-## Mindmap
+## Mindmap: 4 Priciples of OOP
 
-![Object-Oriented Programming in C#.png](OOP%20in%20C%23/Object-Oriented_Programming_in_C.png)
+![Object-Oriented Programming in C#.png](../../assets/roadmaps/4-principles-in-oop.png)
 
 ---
 
