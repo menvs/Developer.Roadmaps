@@ -1,10 +1,10 @@
 # C# Basics
 
-[1. Variables, Data Types, Constant](csharp-basics\variables-datatypes-constants.md)
+[1. Variables, Data Types, Constant](csharp-basics/variables-datatypes-constants.md)
 
-[2. Operators](csharp-basics\operators.md)
+[2. Operators](csharp-basics/operators.md)
 
-[3. Condition Statements](csharp-basics\condition-statements.md)
+[3. Condition Statements](csharp-basics/condition-statements.md)
 
 [4. Loops](csharp-basics/loops.md)
 
