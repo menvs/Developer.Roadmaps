@@ -16,13 +16,32 @@ Build a strong foundation in C# programming and the .NET ecosystem. This phase c
  [.NET CLI Basics](dotnet-cli-basics.md) | Build, run, publish .NET apps using CLI 
 ---
 
-## 🛠 Mini Projects
+## 🧮 Mini Project: Console-Based Student Management System
 
-Practice what you've learned with small, focused projects:
+**Description**:  
+Build a command-line application that allows users to manage a list of students with features like adding, editing, deleting, searching, and listing student records. This project integrates key concepts such as OOP, collections, exception handling, delegates/events, and uses the .NET CLI for building and running the app.
 
-- **Calculator CLI App** — Perform basic arithmetic operations from the console.
-- **Student Management System** — Use OOP to manage student data (add/edit/delete).
-- **Guess the Number Game** — A simple game using loops, conditions, and random numbers.
+ **Features**
+- Add, edit, delete students
+- Display all students
+- Search students by name or ID
+- Sort students by GPA or name
+- (Optional) Save/load student data to/from a file
+
+
+### 📚 Concepts Applied
+
+| Concept | Applied In |
+|--------|-------------|
+| **C# Basics** | Variables, loops, conditionals for program logic |
+| **OOP** | `Student` class, `StudentManager` class, interfaces for abstraction |
+| **Exception Handling** | Input validation, error handling, try-catch blocks |
+| **Delegates & Events** | Notify when students are added/removed |
+| **Collections & Generics** | `List<Student>`, sorting/filtering, LINQ queries |
+| **.NET CLI** | Project setup and management using `dotnet new`, `dotnet run` |
+
+
+> 💡 This project provides hands-on experience and prepares you for real-world application development. Try to implement features step by step to solidify your understanding.
 
 ---
 
