@@ -1,0 +1,6 @@
+@Minimal.ECommerce.Auth.API_HostAddress = http://localhost:5016
+
+GET {{Minimal.ECommerce.Auth.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

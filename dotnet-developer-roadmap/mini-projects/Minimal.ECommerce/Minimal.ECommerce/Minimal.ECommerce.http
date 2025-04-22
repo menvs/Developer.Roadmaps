@@ -1,6 +1,0 @@
-@Minimal.ECommerce_HostAddress = http://localhost:5042
-
-GET {{Minimal.ECommerce_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
