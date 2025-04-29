@@ -17,4 +17,3 @@ Build a strong foundation in C# programming and the .NET ecosystem. This phase c
 
 ---
 
-Ready? Move on to [Phase 2: Data Access with Entity Framework](../phase-2/phase2.md) when you're confident with the fundamentals.
