@@ -23,7 +23,7 @@ To reinforce your learning throughout this roadmap, you’ll build a **Minimal E
 - 🔐 Covers key skills including authentication, data access, performance optimization, and deployment
 - 🧪 Includes unit tests, integration tests, CI/CD, and API performance best practices
 
-You’ll progressively implement this project as you move through the roadmap phases. View the project [here](mini-projects\Minimal.ECommerce\README.md)
+You’ll progressively implement this project as you move through the roadmap phases. View the project [here](https://github.com/menvs/Minimal.Ecommerce/tree/main)
 
 ---
 
@@ -31,7 +31,7 @@ You’ll progressively implement this project as you move through the roadmap ph
 
 - 📍 Phase 1: [C# & .NET Fundamentals](resources/phase-1/phase1.md)
 - 🧱 Phase 2: [Data Access with Entity Framework](resources/phase-2/phase2.md)
-- 🧰 Phase 3: API Development with ASP.NET Core
+- 🧰 Phase 3: [API Development with ASP.NET Core](resources/phase-3/phase3.md)
 - 🧠 Phase 4: Advanced C# Topics
 - 🧼 Phase 5: Architecture & Clean Code
 - 🧪 Phase 6: Testing
