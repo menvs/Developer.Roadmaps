@@ -12,6 +12,18 @@ A complete learning path to become a professional .NET Developer – from the fu
 
 ![dotnet-developer-roadmap.png](assets/roadmaps/dotnet-developer-roadmap.png)
 
+---
+
+## 🧪 Practice Project: Minimal E-Commerce API
+
+To reinforce your learning throughout this roadmap, you’ll build a **Minimal E-Commerce API**, a hands-on project designed to help you apply each phase’s concepts in a real-world scenario.
+
+- 🔧 Built with **.NET 8**, **Clean Architecture**, **CQRS**, and **DDD**
+- 🧱 Structured as **microservices**: Product Service, Order Service, and Auth Service
+- 🔐 Covers key skills including authentication, data access, performance optimization, and deployment
+- 🧪 Includes unit tests, integration tests, CI/CD, and API performance best practices
+
+You’ll progressively implement this project as you move through the roadmap phases. View the project [here](https://github.com/menvs/Minimal.Ecommerce/tree/main)
 
 ---
 
@@ -19,25 +31,9 @@ A complete learning path to become a professional .NET Developer – from the fu
 
 - 📍 Phase 1: [C# & .NET Fundamentals](resources/phase-1/phase1.md)
 - 🧱 Phase 2: [Data Access with Entity Framework](resources/phase-2/phase2.md)
-- 🧰 Phase 3: Web Development with ASP.NET Core
+- 🧰 Phase 3: [API Development with ASP.NET Core](resources/phase-3/phase3.md)
 - 🧠 Phase 4: Advanced C# Topics
-- 🛡️ Phase 5: Authentication & Authorization
-- 🧼 Phase 6: Architecture & Clean Code
-- 🧪 Phase 7: Testing
-- ⚙️ Phase 8: DevOps & Deployment
+- 🧼 Phase 5: Architecture & Clean Code
+- 🧪 Phase 6: Testing
+- ⚙️ Phase 7: DevOps & Deployment
 
----
-
-🙌 Contributing
-
-If you'd like to improve this roadmap, feel free to fork and submit a PR. Feedback and suggestions are always welcome!
-
----
-
-🌐 Connect
-
-GitHub: menvs
-
-LinkedIn: [menvs](https://www.linkedin.com/in/menvs)
-
-Email: vosimen1996@gmail.com
